@@ -65,6 +65,6 @@
   "resetKeys": false,
   "safeMode": false,
   "systemVersion": "0.12.4"
-  "manifest": "https://raw.githubusercontent.com/CapitanBlackjoker/karma/main/world.json",
+  "manifest": "https://github.com/CapitanBlackjoker/karma/blob/main/world.json",
   "download": "https://codeload.github.com/CapitanBlackjoker/karma/zip/main"
 }
