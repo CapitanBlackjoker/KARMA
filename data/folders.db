@@ -1,0 +1,59 @@
+{"_id":"0jcWTO1dOpvYNtkd","name":"MATERIAL PER DIRECTOR","type":"JournalEntry","parent":null,"sorting":"a","sort":1700000,"color":"#ff0000","flags":{}}
+{"_id":"22lu1oTnTTnqrsVF","name":"taules","type":"Item","parent":"RCn5XooNP4oLmLoN","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"ANGELI CUSANG (ENFERMERA RIPOLL)","type":"JournalEntry","parent":"lFdNG7E2TzMO8vRF","sorting":"a","sort":0,"color":"#836e20","flags":{},"_id":"434lZtnLuMw9HfLY"}
+{"name":"paneles","type":"Item","parent":"bRaoLc4IEJkJo1Zz","sorting":"a","sort":0,"color":null,"flags":{},"_id":"4TMJ0LywljAm3cEI"}
+{"_id":"4w5HOWCA9hBdir6Q","name":"TALLER DE VIDRE ANUARD","type":"JournalEntry","parent":"lFdNG7E2TzMO8vRF","sorting":"a","sort":0,"color":"#746739","flags":{}}
+{"name":"7.CAU DEL RATOLINS","type":"JournalEntry","parent":"lFdNG7E2TzMO8vRF","sorting":"a","sort":0,"color":"#5d0e0e","flags":{},"_id":"AQDEeTSWgSudnhcC"}
+{"_id":"AU5LxIrBtScSkQLb","name":"TESTIMONIS","type":"JournalEntry","parent":null,"sorting":"a","sort":2000000,"color":"#5e42c2","flags":{"core":{"sheetClass":"core.FolderConfig"}}}
+{"name":"PANELLS PERSONALITAT","type":"Item","parent":"4TMJ0LywljAm3cEI","sorting":"a","sort":0,"color":"#362c49","flags":{},"_id":"Da1edFQzwJGziVAa"}
+{"_id":"F31rQEqtxqQifY6o","name":"dades personals","type":"Item","parent":"HRnzNRXqcMXG5AuW","sorting":"a","sort":0,"color":"#b215c6","flags":{}}
+{"_id":"GPMq2mW0InMIw0Ya","name":"ITEMS MODIFICADORS","type":"Item","parent":"yTG4qjIbGr5gL0d5","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"1 LA MORGUE","type":"JournalEntry","parent":"lFdNG7E2TzMO8vRF","sorting":"a","sort":0,"color":null,"flags":{},"_id":"GiEbPviqizquodp9"}
+{"_id":"GueQWjzAos5sHzq7","name":"capacitats mentals","type":"Item","parent":"HRnzNRXqcMXG5AuW","sorting":"a","sort":100000,"color":"#1f1971","flags":{}}
+{"name":"propiedades","type":"Item","parent":"bRaoLc4IEJkJo1Zz","sorting":"a","sort":0,"color":null,"flags":{},"_id":"HRnzNRXqcMXG5AuW"}
+{"_id":"HWVae7cShCHzPIpP","name":"ARMES DANY","type":"Item","parent":"RCn5XooNP4oLmLoN","sorting":"a","sort":200000,"color":null,"flags":{}}
+{"name":"PROVES","type":"Actor","parent":"fR1ganWC9axzDO7o","sorting":"a","sort":0,"color":null,"flags":{},"_id":"I231tqXJ91uk5Lpx"}
+{"_id":"Iw5NbCSeMh0muOf4","name":"PERSONATGES HISTÓRICS","type":"JournalEntry","parent":null,"sorting":"a","sort":1800000,"color":"#520a0a","flags":{}}
+{"name":"VICTIMES AVATARS","type":"Actor","parent":"fR1ganWC9axzDO7o","sorting":"a","sort":0,"color":null,"flags":{},"_id":"MHLan3I1x7JOdUjs"}
+{"name":"capacitats físiques","type":"Item","parent":"HRnzNRXqcMXG5AuW","sorting":"a","sort":0,"color":"#c22e2e","flags":{},"_id":"NA8YI1j6fhyClzAu"}
+{"name":"MANSIÓ COMTESSA","type":"JournalEntry","parent":"lFdNG7E2TzMO8vRF","sorting":"a","sort":0,"color":"#09583e","flags":{},"_id":"QvH0W5BeXURev2Iz"}
+{"name":"PANELLS ESTAT ANÍMIC","type":"Item","parent":"4TMJ0LywljAm3cEI","sorting":"a","sort":0,"color":"#244c33","flags":{},"_id":"R2HG4pDLfMsdsh7m"}
+{"name":"_Compendio","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"RCn5XooNP4oLmLoN"}
+{"_id":"SXFVKaAuyZRXqqVi","name":"1 CONSULTA DR. RIPOLL","type":"JournalEntry","parent":"lFdNG7E2TzMO8vRF","sorting":"a","sort":100000,"color":"#965022","flags":{}}
+{"_id":"T3QhWv7NS5BP96BZ","name":"PROTAGONISTES","type":"JournalEntry","parent":null,"sorting":"a","sort":2100000,"color":"#ef4006","flags":{}}
+{"_id":"TwOrvHpnvFsk3hvO","name":"Trigger Happy","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{}}
+{"name":"UBICACIONS","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"Uuat4Y28eU44CMyV"}
+{"name":"BASICS","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"W63qlVbEA5QfVRPD"}
+{"name":"pulsions","type":"Item","parent":"HRnzNRXqcMXG5AuW","sorting":"a","sort":0,"color":"#b4ae18","flags":{},"_id":"Wsi2PdAg3i49cQRl"}
+{"name":"_Plantillas","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"Wy7Ig26N28Fsq4Me"}
+{"_id":"YbRpJk6ieHY7T07o","name":"TABS","type":"Item","parent":"bRaoLc4IEJkJo1Zz","sorting":"a","sort":0,"color":"#000000","flags":{}}
+{"_id":"ZBCLqQacokSauo9u","name":"ARMADURES LLISTAT DE PROTECCIÓ","type":"Item","parent":"RCn5XooNP4oLmLoN","sorting":"a","sort":-200000,"color":null,"flags":{}}
+{"name":"capacitats socials","type":"Item","parent":"HRnzNRXqcMXG5AuW","sorting":"a","sort":0,"color":"#32950f","flags":{},"_id":"b1LHA2jPxwbwLACy"}
+{"_id":"b9UhZEIZgRksAPHB","name":"Z. CASA DE L'ASSASI","type":"JournalEntry","parent":"lFdNG7E2TzMO8vRF","sorting":"a","sort":0,"color":null,"flags":{}}
+{"_id":"bRaoLc4IEJkJo1Zz","name":"_Plantilla","type":"Item","parent":null,"sorting":"a","sort":100000,"color":null,"flags":{}}
+{"name":"INGENIER DE CATACUMBES","type":"JournalEntry","parent":"lFdNG7E2TzMO8vRF","sorting":"a","sort":0,"color":"#5d0404","flags":{},"_id":"dfaK5VCWCQpzMDWs"}
+{"_id":"e724QJi7vTzCOzJ7","name":"1.PERSONATGES CLAU","type":"JournalEntry","parent":"0jcWTO1dOpvYNtkd","sorting":"a","sort":400000,"color":"#2abb62","flags":{}}
+{"name":"MENUS","type":"Actor","parent":"fR1ganWC9axzDO7o","sorting":"a","sort":0,"color":null,"flags":{},"_id":"fQC0nbgriHv05Yxp"}
+{"_id":"fR1ganWC9axzDO7o","name":"botons","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"gQOuyeNQbe2xnRy8","name":"2/3 CASA DAMIEN CARÓN","type":"JournalEntry","parent":"lFdNG7E2TzMO8vRF","sorting":"a","sort":0,"color":"#4d2205","flags":{}}
+{"_id":"h4kIs99Wifu1dPkR","name":"TAULLEL DE INVESTIGACIÓ","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"UBICACIONS","type":"Actor","parent":"fR1ganWC9axzDO7o","sorting":"a","sort":0,"color":null,"flags":{},"_id":"i594i1WyWyXNb2sO"}
+{"_id":"jOyUQ2D40nXBHNOC","name":"PROVES","type":"JournalEntry","parent":null,"sorting":"a","sort":2300000,"color":"#342828","flags":{}}
+{"_id":"jdlKX7IpPadcJn0e","name":"1 CASA DEL CAPATÀS ASSASINAT","type":"JournalEntry","parent":"lFdNG7E2TzMO8vRF","sorting":"a","sort":0,"color":"#7e5b11","flags":{}}
+{"name":"PROTAGONISTES","type":"Actor","parent":"fR1ganWC9axzDO7o","sorting":"a","sort":0,"color":null,"flags":{},"_id":"kwcDDpBm3PdpJOSH"}
+{"_id":"lFdNG7E2TzMO8vRF","name":"ESCENES","type":"JournalEntry","parent":"0jcWTO1dOpvYNtkd","sorting":"a","sort":100000,"color":"#da6416","flags":{}}
+{"_id":"lXS9qVbnGjipVgPF","name":"REFUGI DE MARIE DALUMER","type":"JournalEntry","parent":"lFdNG7E2TzMO8vRF","sorting":"a","sort":0,"color":"#56460b","flags":{}}
+{"name":"PERSONALITAT","type":"Item","parent":"HRnzNRXqcMXG5AuW","sorting":"a","sort":0,"color":"#3f1c38","flags":{},"_id":"lh3jpodkBFyPlJuN"}
+{"_id":"pv4JzlPtW72s2nQK","name":"PISTES","type":"JournalEntry","parent":"0jcWTO1dOpvYNtkd","sorting":"a","sort":200000,"color":"#a5910d","flags":{}}
+{"name":"CASERNA AMICS DEL POBLE","type":"JournalEntry","parent":"lFdNG7E2TzMO8vRF","sorting":"a","sort":0,"color":"#2c0707","flags":{},"_id":"sJV7hGGtDbIVHDe7"}
+{"name":"GROUPS","type":"Item","parent":"RCn5XooNP4oLmLoN","sorting":"a","sort":0,"color":null,"flags":{},"_id":"sYNvBuZiHoMElQqm"}
+{"_id":"t5w103oElYLtN6ZL","name":"INFORMES FORENSES","type":"JournalEntry","parent":null,"sorting":"a","sort":1900000,"color":"#2d8f0a","flags":{}}
+{"_id":"u2cGvMgJ3Q52cMOh","name":"0.OFICINA DE VIDOCQ","type":"JournalEntry","parent":"lFdNG7E2TzMO8vRF","sorting":"a","sort":0,"color":"#ec8b4b","flags":{}}
+{"_id":"u6sOeosOGIdgsWTB","name":"1 HIPODROM CLUB HÍPICA","type":"JournalEntry","parent":"lFdNG7E2TzMO8vRF","sorting":"a","sort":0,"color":"#bb5511","flags":{}}
+{"_id":"uOYLWD5zQoXdTNCC","name":"TEATRE AMBIGU-COMIQUE","type":"JournalEntry","parent":"lFdNG7E2TzMO8vRF","sorting":"a","sort":0,"color":"#6f330b","flags":{}}
+{"_id":"vpsuekkhZfrnswTa","name":"TESTIMOMNIS AVATARS","type":"Actor","parent":"fR1ganWC9axzDO7o","sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"xuHbISHo2UcUkZzv","name":"UBICACIONS","type":"JournalEntry","parent":"0jcWTO1dOpvYNtkd","sorting":"a","sort":300000,"color":"#363fbf","flags":{}}
+{"_id":"yT2IvpNwkCVIWPW7","name":"UBICACIONS","type":"JournalEntry","parent":null,"sorting":"a","sort":2200000,"color":"#1a0a48","flags":{}}
+{"_id":"yTG4qjIbGr5gL0d5","name":"_cITEMS","type":"Item","parent":"RCn5XooNP4oLmLoN","sorting":"a","sort":0,"color":"","flags":{}}
+{"_id":"yfG6mHdDEjZySea4","name":"PANELLS FICHA","type":"Item","parent":"4TMJ0LywljAm3cEI","sorting":"a","sort":0,"color":"#844d4d","flags":{}}
+{"name":"DADES VITALS","type":"Item","parent":"HRnzNRXqcMXG5AuW","sorting":"a","sort":0,"color":"#a86810","flags":{},"_id":"zaG4oCMTAIrIRqVe"}

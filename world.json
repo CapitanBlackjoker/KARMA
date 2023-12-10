@@ -1,0 +1,66 @@
+{
+  "name": "karma",
+  "title": "KARMA",
+  "description": "<p><img style=\"display:block;margin-left:auto;margin-right:auto\" src=\"worlds/karma/scenes/portada%20per%20a%20foundry.jpg\" width=\"303\" height=\"317\" /></p>",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "EL VIDRIER DE HAUSMANN",
+      "type": "JournalEntry",
+      "name": "el-vidrier-de-hausmann",
+      "path": "packs/el-vidrier-de-hausmann.db",
+      "system": "sandbox",
+      "package": "world",
+      "entity": "JournalEntry",
+      "private": false,
+      "absPath": "C:\\Users\\capit\\AppData\\Local\\FoundryVTT\\Data\\worlds\\karma\\packs\\el-vidrier-de-hausmann.db"
+    },
+    {
+      "label": "ESCENES: EL VIDRIER DE HAUSMANN",
+      "type": "Scene",
+      "name": "escenes-el-vidrier-de-hausmann",
+      "path": "packs/escenes-el-vidrier-de-hausmann.db",
+      "system": "sandbox",
+      "package": "world",
+      "entity": "Scene",
+      "private": false,
+      "absPath": "C:\\Users\\capit\\AppData\\Local\\FoundryVTT\\Data\\worlds\\karma\\packs\\escenes-el-vidrier-de-hausmann.db"
+    },
+    {
+      "label": "KARMA FICHA ACTOR",
+      "type": "Actor",
+      "name": "karma-ficha-actor",
+      "path": "packs/karma-ficha-actor.db",
+      "system": "sandbox",
+      "package": "world",
+      "entity": "Actor",
+      "private": false,
+      "absPath": "C:\\Users\\capit\\AppData\\Local\\FoundryVTT\\Data\\worlds\\karma\\packs\\karma-ficha-actor.db"
+    },
+    {
+      "label": "KARMA SISTEM CITEMS",
+      "type": "Item",
+      "name": "karma-sistem-citems",
+      "path": "packs/karma-sistem-citems.db",
+      "system": "sandbox",
+      "package": "world",
+      "entity": "Item",
+      "private": false
+    }
+  ],
+  "system": "sandbox",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "worlds/karma/scenes/KARMA%20LOGO%20CATALA.jpg",
+  "coreVersion": "9.249",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.12.4"
+}
